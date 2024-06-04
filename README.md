@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Blockchain, Computer Science & Network
+I'm absolutely buzzing about learning Blockchain, Computer Science, and Networking. There's so much to learn and I can't wait to see what I can build!
 
 
 ## 🌐 Socials:
