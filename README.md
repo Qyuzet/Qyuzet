@@ -22,7 +22,7 @@ I'm absolutely buzzing about learning Blockchain, Computer Science, and Networki
 ![](https://github-contributor-stats.vercel.app/api?username=Qyuzet&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://memer-new.vercel.app/' style="height:400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Qyuzet&icon=0&color=0)](https://visitcount.itsvg.in)
