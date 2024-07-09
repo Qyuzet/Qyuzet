@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=31&pause=1000&center=true&vCenter=true&random=false&width=435&height=150&lines=Hello+Earth!+I'm+Qyuzet)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=31&pause=1000&center=true&vCenter=true&random=false&width=1000&height=150&lines=Hello+Earth!+I'm+Qyuzet%F0%9F%A6%8A)](https://git.io/typing-svg)
 
 # About me:
 I'm absolutely buzzing about learning Blockchain, Computer Science, and Networking. There's so much to learn and I can't wait to see what I can build!
