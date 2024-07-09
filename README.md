@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=java,maven,javascript,typescript,html,css,react,nextjs,tailwind,solidity,rust,mysql,replit" />
   </a>
 </p>
-
+<br/>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@riqyuzet) 
