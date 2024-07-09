@@ -1,3 +1,7 @@
+<h1 align="center" style="style=none;">
+    Riki Awal Syahputra
+</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=31&pause=1000&center=true&vCenter=true&random=false&width=1000&height=150&lines=Hello+Earth!+I'm+Qyuzet%F0%9F%A6%8A)](https://git.io/typing-svg)
 
 # About me:
